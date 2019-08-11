@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="readcsvfileinspark"
+		module="readcsvfileinspark"
+		revision="0.1"
+		extra-scalaVersion="2.10"
+		extra-sbtVersion="1.0"
+		conf="optional"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20190811202937"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
