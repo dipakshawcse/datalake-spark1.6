@@ -4,7 +4,7 @@
 		module="readcsvfileinspark$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190811203059"
+		publication="20190811210410"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
